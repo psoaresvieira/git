@@ -1,0 +1,9 @@
+Clone seu repositório 
+
+abra o gitbash na pasta do projeto
+
+git add.
+
+git commit -m "primeiro commit"
+
+git push
